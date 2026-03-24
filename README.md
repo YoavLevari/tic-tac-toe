@@ -1,6 +1,7 @@
 # Tic-Tac-Toe (Java, MVC, GUI, AI)
 
-A fully object‑oriented Tic‑Tac‑Toe game implemented in Java using a clean **MVC architecture**, a Swing‑based GUI, and multiple AI difficulty levels (Random, Medium, Perfect).  
+A fully object‑oriented Tic‑Tac‑Toe game implemented in Java using a clean **MVC architecture**, a Swing‑based GUI, 
+and multiple AI difficulty levels (Random, Medium, Perfect).  
 The project includes a complete **JUnit 4 test suite** covering the model, strategies, players, and controller logic.
 
 ---
