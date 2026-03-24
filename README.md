@@ -46,6 +46,7 @@ Includes a complete JUnit 4 test suite:
     │         └── Coordinate.java
     │
     ├── model/player/
+    │    ├── Player.java
     │    ├── BasicPlayer.java
     │    ├── Strategy.java
     │    ├── RandomStrat.java
