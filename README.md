@@ -60,7 +60,7 @@ Includes a complete JUnit 4 test suite:
     │    └── PlayerSelectView.java
     │
     └── controller/
-    └── GuiController.java
+         └── GuiController.java
 
 ---
 
